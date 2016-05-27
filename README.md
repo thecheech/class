@@ -1,7 +1,5 @@
 # Python for Data Science Class 
 
-## Taugh at ENSAE ParisTech
-
 This is a 3-day course that I am teaching in ENSAE ParisTech to two different types of audience:
 
 * Continuing education for Data Scientists, Software Engineers and Analysts
